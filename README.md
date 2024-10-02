@@ -6,6 +6,8 @@ This project demonstrates how to build a simple **Spring Boot application** as a
 ## 📝 Project Goal
 The goal of this project is to deploy a **Spring Boot application** using **Kubernetes**, making it accessible via the **network**. Through this, we will explore Kubernetes' capabilities for **automated deployment**, scalability, and management.
 
+![image](https://github.com/user-attachments/assets/7d558dfd-4fd3-4548-90b3-1dc2bd1444d3)
+
 ---
 
 ## 📋 Project Steps
